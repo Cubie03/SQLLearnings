@@ -1,3 +1,4 @@
+---SQL Learning how to grant access and privilege to users or specific roles on tables/database
 
 ---Dropping auto user insert triggers
 Drop Trigger AutoInsert_User_Branch;
