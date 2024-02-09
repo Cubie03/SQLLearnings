@@ -1,4 +1,6 @@
----SQL Learning how to grant access and privilege to users or specific roles on tables/database
+---SQL Learning - Creating multiple users and roles
+---SQL Learning - Place triggers and security functions in a database
+---SQL Learning - Grant access and privilege to users or specific roles on tables/database
 
 ---Dropping auto user insert triggers
 Drop Trigger AutoInsert_User_Branch;
